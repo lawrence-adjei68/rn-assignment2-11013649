@@ -32,3 +32,4 @@ myName: This style should set the font weight to bold to differentiate it from t
 Expected Outcome
 
 When the application is run, it should display a centered message on a green background, saying "My name is Lawrence Adjei" with "Lawrence Adjei" in bold. The status bar should also be visible with default styling.
+![my app](https://github.com/lawrence-adjei68/rn-assignment2-11013649/assets/151617926/8af511ee-0627-48e8-8d80-34804d3aa8e9)
